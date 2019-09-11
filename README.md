@@ -2,7 +2,7 @@
 <html>
 <head>
 		<title>ik ben cool</title>
-	<h1>michael buitenweg</h1>
+	<p style="color: blue"><code>Michael Buitenweg</code></p>
 </head>
 <body>
 	<h1>mijn hobby's</h1>
